@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="352.27475"
+   height="35.000103"
+   viewBox="0 0 93.206028 9.2604439"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/btburke/projects/secretbox/landing/logo.svg.png"
+   inkscape:export-xdpi="220"
+   inkscape:export-ydpi="220">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="241.04698"
+     inkscape:cy="-32.192544"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3200"
+     inkscape:window-height="1658"
+     inkscape:window-x="0"
+     inkscape:window-y="58"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(26.525933,-309.96006)">
+    <g
+       id="g1514">
+      <text
+         id="text1408"
+         y="320.86789"
+         x="-13.642277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.38379955px;line-height:1.25;font-family:'What The FUN';-inkscape-font-specification:'What The FUN';letter-spacing:0px;word-spacing:0px;fill:#313ee7;fill-opacity:1;stroke:none;stroke-width:0.33648747"
+         xml:space="preserve"><tspan
+           style="font-size:14.35680008px;fill:#313ee7;fill-opacity:1;stroke-width:0.33648747"
+           y="320.86789"
+           x="-13.642277"
+           id="tspan1406"
+           sodipodi:role="line">SECRETBOX</tspan></text>
+      <text
+         id="text1488"
+         y="320.87112"
+         x="-26.735762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.32427025px;line-height:1.25;font-family:'What The FUN';-inkscape-font-specification:'What The FUN';letter-spacing:0px;word-spacing:0px;fill:#28e18f;fill-opacity:0.94117647;stroke:none;stroke-width:0.89526689"
+         xml:space="preserve"><tspan
+           style="fill:#28e18f;fill-opacity:0.94117647;stroke-width:0.89526689"
+           y="320.87112"
+           x="-26.735762"
+           id="tspan1486"
+           sodipodi:role="line">/</tspan></text>
+      <text
+         id="text1488-7"
+         y="320.87112"
+         x="-22.956772"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.32427025px;line-height:1.25;font-family:'What The FUN';-inkscape-font-specification:'What The FUN';letter-spacing:0px;word-spacing:0px;fill:#28e18f;fill-opacity:0.94117647;stroke:none;stroke-width:0.89526689"
+         xml:space="preserve"><tspan
+           style="fill:#28e18f;fill-opacity:0.94117647;stroke-width:0.89526689"
+           y="320.87112"
+           x="-22.956772"
+           id="tspan1486-2"
+           sodipodi:role="line">/</tspan></text>
+    </g>
+  </g>
+</svg>

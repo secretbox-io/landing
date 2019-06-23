@@ -1,0 +1,24 @@
+{
+  "name": "secretbox-site",
+  "version": "1.0.0",
+  "description": "Secretbox landing page",
+  "main": "index.js",
+  "repository": "https://github.com/secretbox-io/site",
+  "author": "Bryan BUrke",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-nunjucks": "^5.0.0",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-stylus": "^2.7.0",
+    "gulp-terser": "^1.2.0",
+    "nunjucks": "^3.2.0",
+    "st": "^1.2.2"
+  }
+}
